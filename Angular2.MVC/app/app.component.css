@@ -1,0 +1,39 @@
+.vertical-offset-100 {
+    padding-top: 100px;
+}
+
+.singin-privacy {
+    color: #667c89;
+    padding: 25px 50px;
+}
+
+h2 {
+    font-size: 25px;
+    color: #667c89;
+    padding-bottom: 20px;
+}
+
+h4 {
+    font-size: 20px;
+    color: #667c89;
+}
+
+p {
+}
+
+a.forgot-password {
+    color: #568ef6;
+    font-size: 13px;
+    font-family: mallory-light;
+}
+
+.title-signin {
+    font-weight: bold;
+    font-size: 15px;
+    padding-bottom: 15px;
+}
+
+.form-control {
+    border-radius: 0;
+    padding: 18px 15px;
+}
